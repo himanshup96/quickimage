@@ -1,0 +1,21 @@
+{
+    "name": "quickimage/imagecrud",
+    "description": "To insert update and delete the image",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "himanshu",
+            "email": "himanshu19@groovyweb.firm.in"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "src\\imagecrud\\": ""
+        }
+    }
+}
